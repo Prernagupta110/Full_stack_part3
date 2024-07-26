@@ -4,7 +4,7 @@ This is the backend for the Phonebook application.
 
 ## Online Application
 
-The application is deployed at: [https://your-app-name.onrender.com](https://full-stack-part3-sne1.onrender.com)
+The application is deployed at: https://full-stack-part3-sne1.onrender.com
 
 ## API Endpoints
 
